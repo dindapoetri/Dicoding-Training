@@ -7,10 +7,10 @@ Selcet the Path :
 - Dicoding Bootcamp React & Back-End <3
 
 ## ✨ Daftar Kelas
-- 🚀 Belajar Dasar Pemrograman JavaScript
-- 🎨 Belajar Membuat Front-End Web untuk Pemula
-- ⚙️ Belajar Fundamental Aplikasi Web dengan React
-- 📦 Belajar Membuat Aplikasi Back-End untuk Pemula
-- 🌐 Belajar Dasar-Dasar DevOps
-- 🧠 Belajar Pemrograman Web
+- 🚀 [Belajar Dasar Pemrograman JavaScript](https://github.com/dindapoetri/Belajar-Dasar-Pemrograman-Web)
+- 🎨 [Belajar Membuat Front-End Web untuk Pemula]
+- ⚙️ [Belajar Fundamental Aplikasi Web dengan React]
+- 📦 [Belajar Membuat Aplikasi Back-End untuk Pemula]
+- 🌐 [Belajar Dasar Pemrograman JavaScript]
+- 🧠 [Belajar Pemrograman Web]
 - 📁 dan kelas lainnya...
